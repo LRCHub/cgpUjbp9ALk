@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "メリクリ",
+  "base_artist": "BoA",
+  "createdAt": "2026-03-04T02:28:24.366501Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メリクリ",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/01_メリクリ_BoA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メリクリ",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/02_メリクリ_BoA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メリクリ",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/03_メリクリ_BoA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メリクリ (Happy 15th Anniversary Ver.)",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/04_メリクリ_(Happy_15th_Anniversary_Ver.)_BoA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メリクリ (instrumental)",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/05_メリクリ_(instrumental)_BoA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メリクリ",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/06_メリクリ_BoA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メリクリ",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/07_メリクリ_BoA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メリクリ (SHIDAX presents BoA\"Winter Love\"X'mas LIVE)",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/08_メリクリ_(SHIDAX_presents_BoA_Winter_Love_X'mas_LIVE)_BoA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メリクリ",
+      "artist": "보아",
+      "has_synced": true,
+      "path": "select/09_メリクリ_보아.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メリクリ",
+      "artist": "Kwon Boa",
+      "has_synced": true,
+      "path": "select/10_メリクリ_Kwon_Boa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メリクリ(Happy 15th Anniversary ver.)",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/11_メリクリ(Happy_15th_Anniversary_ver.)_BoA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "メリクリ",
+      "artist": "Weezer",
+      "has_synced": false,
+      "path": "select/12_メリクリ_Weezer.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メリクリ",
+      "artist": "BOA",
+      "has_synced": false,
+      "path": "select/pl_01_メリクリ_BOA.txt"
+    }
+  ]
+}
